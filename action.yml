@@ -1,4 +1,4 @@
-- name: send default message
+- name: Notify the commit on Telegram
   uses: EverythingSuckz/github-telegram-notify@main
   with:
     to: '${{ secrets.BOT_TOKEN }}'
