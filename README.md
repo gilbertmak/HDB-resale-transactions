@@ -12,4 +12,3 @@ You can also download the cleaned files and enjoy!
 ![Screenshot 2022-01-22 at 3 02 20 PM](https://user-images.githubusercontent.com/65649754/150628624-2a2e28f4-77da-43c0-853b-7dfb1fa05fc6.png)
 
 Resale HDB Transactions from data.gov.sg
-#test
