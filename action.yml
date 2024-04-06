@@ -1,5 +1,5 @@
 - name: send default message
-  uses: appleboy/telegram-action@master
+  uses: EverythingSuckz/github-telegram-notify@main
   with:
-    to: ${{ secrets.BOT_TOKEN }}
-    token: ${{ secrets.CHAT_ID }}
+    to: '${{ secrets.BOT_TOKEN }}'
+    token: '${{ secrets.CHAT_ID }}'
