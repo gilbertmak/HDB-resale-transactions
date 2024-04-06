@@ -1,5 +1,5 @@
-name: Github Telegram Notifier
-uses: EverythingSuckz/github-telegram-notify@v1.1.2
-with:
-  bot_token: '${{ secrets.BOT_TOKEN }}'
-  chat_id: '${{ secrets.CHAT_ID }}'
+- name: send default message
+  uses: appleboy/telegram-action@master
+  with:
+    to: ${{ secrets.BOT_TOKEN }}
+    token: ${{ secrets.CHAT_ID }}
