@@ -10,3 +10,10 @@ I personally prefer to set the time playback to _incremental time window_ to sho
 ![Screenshot 2022-01-22 at 3 02 20 PM](https://user-images.githubusercontent.com/65649754/150628624-2a2e28f4-77da-43c0-853b-7dfb1fa05fc6.png)
 
 Resale HDB Transactions from data.gov.sg
+
+---
+
+Addresses were reverse geocoded using OneMap and Google Maps since data.gov.sg does not provide postal codes. 
+CSV was too large to commit via Github UI (max size of 22mb) - used VS Code to commit csv file.
+Might explore Streamlit to deploy this repo and geocoder repo next time so I can deploy codes directly.
+<img width="1070" alt="Screenshot 2024-04-11 at 11 28 32 PM" src="https://github.com/gilbertmak/HDB-resale-transactions/assets/65649754/e3ae9c61-fef5-4017-a02f-95471fe3c40d">
