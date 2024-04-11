@@ -3,7 +3,7 @@ Explore hotspots and the resiliency of HDB prices using this kepler.gl visualisa
 
 Visualisation provides a high level understanding of price changes, and guides analysts in narrowing down their research for deeper analyses into price trends across towns and flat sizes.
 
-Visit this time series [here](https://paper.dropbox.com/ep/redirect/external-link?url=https%3A%2F%2Fkepler.gl%2Fdemo%2Fmap%3FmapUrl%3Dhttps%3A%2F%2Fdl.dropboxusercontent.com%2Fs%2Fo1z1vrqzqakjkda%2FResale%2520HDB%2520Transactions.json&hmac=AgygIqTmkLH7q30Us4WHjd6wD1i2JEoUgyGnrKFvtac%3D).
+Visit this time series [here](https://www.dropbox.com/scl/fi/5o7hjnmmqjrpk0u1kzitn/HDB-Resale-Flats.html?rlkey=epi2tdjl1yxgo0f7czikw5ho9&dl=0).
 
 I personally prefer to set the time playback to _incremental time window_ to show changes over time. At a glance, interesting observations can be made such as the effectiveness of 2018 cooling measures.
 
